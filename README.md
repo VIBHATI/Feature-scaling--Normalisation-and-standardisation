@@ -1,10 +1,10 @@
 # Feature-scaling--Normalisation-and-standardisation
 Feature scaling is a critical pre-processing step involved developing Machine Learning/ Deep Learning based models. It is paticularly significant for cases where where the independent variables/ features have different scales. For example, when one of the features varies in the range of [0,100] and some other feature varies in the range of [0,1], we need to perform feature scaling before feeding the data to ML/DL model. Feature scaling helps the model learn better. Also, feature scaling can help gradient decent to  converge faster. 
 
-# Normalisation : 
+# Normalisation
 Re-scales the data to lie in the range 0 to 1.
-# Standardisation : 
-Rescales the data to have zero mean and unit variance.
+# Standardisation 
+Re-scales the data to have zero mean and unit variance.
 
 #  Which part of the data should we fit to the StandardScaler() and MinMaxScaler()?
 We should fit the training data and the use that to scale training and test data.
