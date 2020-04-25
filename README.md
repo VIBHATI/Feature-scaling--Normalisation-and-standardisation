@@ -10,7 +10,7 @@ Re-scales the data to have zero mean and unit variance.
 We should fit the training data and the use that to scale training and test data.
 
 #  Do we need to standardise/ normalize the target variable? 
-Generally, it's not necessary. 
+Generally, its not necessary. 
 (reference- https://stats.stackexchange.com/questions/111467/is-it-necessary-to-scale-the-target-value-in-addition-to-scaling-features-for-re )
 
 #  Should we standardise the one-hot encoded variables?
