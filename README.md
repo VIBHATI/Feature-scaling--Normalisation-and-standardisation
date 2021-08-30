@@ -1,5 +1,5 @@
 # Feature-scaling--Normalisation-and-standardisation
-Feature scaling is a critical pre-processing step involved developing Machine Learning/ Deep Learning based models. It is paticularly significant for cases where where the independent variables/ features have different scales. For example, when one of the features varies in the range of [0,100] and some other feature varies in the range of [0,1], we need to perform feature scaling before feeding the data to ML/DL model. Feature scaling helps the model learn better. Also, feature scaling can help gradient decent to  converge faster. 
+Feature scaling is a critical pre-processing step involved developing Machine Learning/ Deep Learning based models. It is paticularly significant for cases where where the independent variables/ features have different scales. For example, when one of the features varies in the range of [0,100] and some other feature varies in the range of [0,1], we need to perform feature scaling before feeding the data to ML/DL model. Feature scaling helps the model learn better. Also, feature scaling can help gradient descent to  converge faster. 
 
 # Normalisation
 Re-scales the data to lie in the range 0 to 1.
